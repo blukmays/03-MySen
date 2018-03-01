@@ -8,9 +8,9 @@ class App extends Component {
 
   exe1(){
     console.log("Hello from Exe1")
-    console.log(TestData.mytest)
+    console.log(TestData.birthplaceSeniorSenator())
       return (
-          <h2> My info is: { TestData.mytest() }</h2>
+          <h2> My info is: </h2>
       )
   }
 
